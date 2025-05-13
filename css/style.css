@@ -1,0 +1,17 @@
+header {
+  height: 40px;
+  background: green;
+}
+nav {
+  height: 20px;
+  background: black;
+  margin: 0px 0px 0px 0px;
+}
+.primer_nav {
+  background: yellow;
+  margin-bottom: 10px;
+}
+.segundo_nav {
+  background: black;
+  color: aliceblue;
+}
