@@ -1,0 +1,15 @@
+.azul {
+  background: rgb(49, 219, 15);
+  height: 200px;
+  width: 150px;
+}
+.rojo {
+  background: blue;
+  width: 400px;
+  height: 150px;
+}
+.blaco {
+  background: red;
+  height: 300px;
+  width: 300px;
+}
